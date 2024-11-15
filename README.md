@@ -1,1 +1,1 @@
-# NFL-Fantasy-Wide-Receiver-Analysis-Project
+# NFL Fantasy Wide Receiver Analysis Project
